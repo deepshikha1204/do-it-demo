@@ -1,3 +1,3 @@
 # do-it-demo
-My journey started....this mine reository.
+My journey started with my repository.
 Author-Deepshikha kumari
